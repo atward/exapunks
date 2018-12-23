@@ -6,7 +6,7 @@
 | 01-trash-world-news-tutorial-1                     |      5 |    5 |        2 |
 | 02-trash-world-news-tutorial-2                     |      9 |    9 |        2 |
 | 03-trash-world-news-tutorial-3                     |     10 |   12 |        4 |
-| 04-trash-world-news-tutorial-4                     |    408 |   12 |        2 |
+| 04-trash-world-news-tutorial-4                     |    305 |   11 |        2 |
 | 05-euclids-pizza-order-system speed                |     13 |   14 |        1 |
 | 05-euclids-pizza-order-system size                 |     19 |   12 |        1 |
 | 06-mitsuzen-hdi-10-left-arm                        |     70 |   21 |      133 |
