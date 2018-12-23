@@ -1,0 +1,20 @@
+# Default
+![](default.gif)
+
+<details><summary></summary>
+<p>
+
+```
+LINK 800
+GRAB 200
+COPY F X
+ADDI X F X
+MULI X F X
+SUBI X F X
+COPY X F
+LINK 800
+DROP
+HALT
+```
+</p>
+</details>
