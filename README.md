@@ -18,4 +18,5 @@
 | [13-equity-first-bank-san-francisco](13-equity-first-bank-san-francisco)<br />default<br />speed | <br />3024<br />1232 | <br />16<br />50 | <br />10<br />10 |
 | [14-mitsuzen-hdi-10-heart](14-mitsuzen-hdi-10-heart)<br />fork<br />small |   <br />141<br />175 | <br />32<br />27 | <br />29<br />35 |
 | [15-trash-world-news-unknown-context](15-trash-world-news-unknown-context) |                  565 |               26 |                4 |
+| [16-tec-redshift-development-kit](16-tec-redshift-development-kit) |                 6952 |               26 |                9 |
 
