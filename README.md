@@ -3,6 +3,7 @@
 
 | Level                                    | Cycles | Size | Activity |
 | ---------------------------------------- | :----: | :--: | :------: |
+| 10-unknown-network-1-unknown-context     |   30   |  18  |    27    |
 | 11-uc-berkeley-eecs-department           |  160   |  35  |    7     |
 | 12-workhouse-work-management-system      |  648   |  30  |    2     |
 | 13-equity-first-bank-san-francisco       |  3024  |  16  |    10    |

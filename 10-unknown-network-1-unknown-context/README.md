@@ -1,0 +1,34 @@
+# Default
+![](default.gif)
+
+<details><summary>CODE</summary>
+<p>
+
+```
+LINK 800
+
+MARK LOOP
+ADDI X 1 X
+TEST X = 4
+TJMP END
+
+REPL FORK
+NOTE PARENT
+LINK 800
+JUMP LOOP
+
+MARK FORK
+NOTE CHILD
+LINK 801
+JUMP LOOP
+
+MARK END
+KILL
+GRAB 276
+
+@REP 4
+LINK -1
+@END
+```
+</p>
+</details>
