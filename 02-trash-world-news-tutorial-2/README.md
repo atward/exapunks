@@ -14,7 +14,6 @@ SUBI X F X
 COPY X F
 LINK 800
 DROP
-HALT
 ```
 </p>
 </details>
