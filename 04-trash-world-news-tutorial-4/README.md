@@ -1,0 +1,25 @@
+# Default
+![](default.gif)
+
+<details><summary></summary>
+<p>
+
+```
+LINK 800
+GRAB 200
+COPY F X
+WIPE
+LINK 800
+MAKE
+
+MARK LOOP
+COPY X F
+SUBI X 1 X
+TEST X < 0
+FJMP LOOP
+
+
+DROP
+```
+</p>
+</details>

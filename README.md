@@ -3,6 +3,7 @@
 
 | Level                                              | Cycles | Size | Activity |
 | -------------------------------------------------- | -----: | ---: | -------: |
+| 04-trash-world-news-tutorial-4                     |    408 |   12 |        2 |
 | 06-mitsuzen-hdi-10-left-arm                        |     70 |   21 |      133 |
 | 09-sfcta-highway-sign-4902-remote-access-interface |    167 |   11 |        1 |
 | 10-unknown-network-1-unknown-context               |     30 |   18 |       27 |
