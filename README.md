@@ -13,7 +13,7 @@
 | 07-last-stop-snaxnet-factory-11                    |     31 |   11 |        2 |
 | 08-zebros-copies-point-of-sale-system              |     73 |   27 |        4 |
 | 09-sfcta-highway-sign-4902-remote-access-interface |    167 |   11 |        1 |
-| 10-unknown-network-1-unknown-context               |     30 |   18 |       27 |
+| 10-unknown-network-1-unknown-context               |     23 |   18 |       27 |
 | 11-uc-berkeley-eecs-department                     |    160 |   35 |        7 |
 | 12-workhouse-work-management-system                |    648 |   30 |        2 |
 | 13-equity-first-bank-san-francisco                 |   3024 |   16 |       10 |
