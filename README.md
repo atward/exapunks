@@ -3,6 +3,7 @@
 
 | Level                                              | Cycles | Size | Activity |
 | -------------------------------------------------- | -----: | ---: | -------: |
+| 01-trash-world-news-tutorial-1                     |      5 |    5 |        2 |
 | 02-trash-world-news-tutorial-2                     |     10 |   10 |        2 |
 | 03-trash-world-news-tutorial-3                     |     11 |   13 |        4 |
 | 04-trash-world-news-tutorial-4                     |    408 |   12 |        2 |
