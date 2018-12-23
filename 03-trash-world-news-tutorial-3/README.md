@@ -22,7 +22,6 @@ MAKE
 COPY M X
 COPY M F
 COPY X F
-DROP
 ```
 </p>
 </details>
