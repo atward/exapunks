@@ -21,6 +21,7 @@
 | [15-trash-world-news-unknown-context](15-trash-world-news-unknown-context) |                  565 |               26 |                4 |
 | [16-tec-redshift-development-kit](16-tec-redshift-development-kit) |                 6952 |               26 |                9 |
 | [18-tec-exa-blaster-modem-radio-stations](18-tec-exa-blaster-modem-radio-stations) |                  161 |               44 |               19 |
+| [17-digital-library-project-patron-access-system](17-digital-library-project-patron-access-system) |         307<br />307 |       36<br />37 |       75<br />74 |
 
 
 # Battles
