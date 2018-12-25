@@ -25,6 +25,7 @@
 | [19-emersonsguide-streetsmarts-gis-database](19-emersonsguide-streetsmarts-gis-database)<br />solo<br />director<br />director unroll | <br />47<br />49<br />45 | <br />43<br />40<br />46 | <br />6<br />6<br />6 |
 | [20-mitsuzen-hdi-10-left-hand](20-mitsuzen-hdi-10-left-hand) |                       82 |                       28 |                     9 |
 | [23-xtreme-league-baseball-player-database](23-xtreme-league-baseball-player-database) |                      116 |                       58 |                    15 |
+| [24-kings-ransom-online-us-west-realm](24-kings-ransom-online-us-west-realm) |                       53 |                       44 |                    31 |
 
 
 # Battles
