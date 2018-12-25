@@ -30,4 +30,5 @@
 | Level                                                        | Rating | Wins | Draws | Losses |
 | ------------------------------------------------------------ | ------ | ---- | ----- | ------ |
 | [battle-01-kgog-tv-programming-hub](battle-01-kgog-tv-programming-hub) | S+     | 100  | 0     | 0      |
+| [battle-02-valhalla-plastered](battle-02-valhalla-plastered) | S+     | 100  | 0     | 0      |
 
