@@ -20,6 +20,7 @@
 | [14-mitsuzen-hdi-10-heart](14-mitsuzen-hdi-10-heart)<br />fork<br />small |   <br />141<br />175 | <br />32<br />27 | <br />29<br />35 |
 | [15-trash-world-news-unknown-context](15-trash-world-news-unknown-context) |                  565 |               26 |                4 |
 | [16-tec-redshift-development-kit](16-tec-redshift-development-kit) |                 6952 |               26 |                9 |
+| [18-tec-exa-blaster-modem-radio-stations](18-tec-exa-blaster-modem-radio-stations) |                  161 |               44 |               19 |
 
 
 # Battles
