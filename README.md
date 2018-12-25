@@ -24,6 +24,7 @@
 | [17-digital-library-project-patron-access-system](17-digital-library-project-patron-access-system) |             307<br />307 |               36<br />37 |            75<br />74 |
 | [19-emersonsguide-streetsmarts-gis-database](19-emersonsguide-streetsmarts-gis-database)<br />solo<br />director<br />director unroll | <br />47<br />49<br />45 | <br />43<br />40<br />46 | <br />6<br />6<br />6 |
 | [20-mitsuzen-hdi-10-left-hand](20-mitsuzen-hdi-10-left-hand) |                       82 |                       28 |                     9 |
+| [23-xtreme-league-baseball-player-database](23-xtreme-league-baseball-player-database) |                      116 |                       58 |                    15 |
 
 
 # Battles
