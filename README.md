@@ -20,10 +20,11 @@
 | [14-mitsuzen-hdi-10-heart](14-mitsuzen-hdi-10-heart)<br />fork<br />small |       <br />141<br />175 |         <br />32<br />27 |      <br />29<br />35 |
 | [15-trash-world-news-unknown-context](15-trash-world-news-unknown-context) |                      565 |                       26 |                     4 |
 | [16-tec-redshift-development-kit](16-tec-redshift-development-kit) |                     6952 |                       26 |                     9 |
-| [18-tec-exa-blaster-modem-radio-stations](18-tec-exa-blaster-modem-radio-stations) |                      161 |                       44 |                    19 |
 | [17-digital-library-project-patron-access-system](17-digital-library-project-patron-access-system) |             307<br />307 |               36<br />37 |            75<br />74 |
+| [18-tec-exa-blaster-modem-radio-stations](18-tec-exa-blaster-modem-radio-stations) |                      161 |                       44 |                    19 |
 | [19-emersonsguide-streetsmarts-gis-database](19-emersonsguide-streetsmarts-gis-database)<br />solo<br />director<br />director unroll | <br />47<br />49<br />45 | <br />43<br />40<br />46 | <br />6<br />6<br />6 |
 | [20-mitsuzen-hdi-10-left-hand](20-mitsuzen-hdi-10-left-hand) |                       82 |                       28 |                     9 |
+| [21-sawayama-wonderdisc-drive-controller](21-sawayama-wonderdisc-drive-controller)<br />solo size<br />speed |     <br />7376<br />4621 |         <br />47<br />60 |     <br />125<br />33 |
 | [23-xtreme-league-baseball-player-database](23-xtreme-league-baseball-player-database) |                      116 |                       58 |                    15 |
 | [24-kings-ransom-online-us-west-realm](24-kings-ransom-online-us-west-realm) |                       53 |                       44 |                    31 |
 | [25-kgog-tv-satellite-uplink](25-kgog-tv-satellite-uplink)   |                      320 |                       74 |                     8 |
