@@ -35,4 +35,5 @@
 | [battle-01-kgog-tv-programming-hub](battle-01-kgog-tv-programming-hub) | S+     | 100  | 0     | 0      |
 | [battle-02-valhalla-plastered](battle-02-valhalla-plastered) | S+     | 100  | 0     | 0      |
 | [battle-03-deadlocks-domain-deadlock](battle-03-deadlocks-domain-deadlock) | S+     | 100  | 0     | 0      |
+| [battle-04-the-wormhole](battle-04-the-wormhole)             | S+     | 100  | 0     | 0      |
 

@@ -1,0 +1,39 @@
+# Default
+![](default.gif)
+
+<details><summary>CODE</summary>
+<p>
+
+XA
+
+```
+LINK 800
+
+MARK L2
+REPL L3
+LINK 2
+
+MARK L3
+REPL L5
+LINK 3
+
+MARK L5
+REPL L7
+LINK 5
+
+MARK L7
+REPL L11
+LINK 7
+
+MARK L11
+REPL L13
+LINK 11
+
+MARK L13
+REPL L2
+LINK 13
+JUMP L2
+```
+
+</p>
+</details>
